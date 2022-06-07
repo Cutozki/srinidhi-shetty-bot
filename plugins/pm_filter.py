@@ -1028,8 +1028,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "owner":
         buttons = [[       
-            InlineKeyboardButton('🔰 ɪɴsᴛᴀɢʀᴀᴍ 🔰', url='https://instagram.com/__nihaal_efx__?igshid=YmMyMTA2M2Y='),
-            InlineKeyboardButton('🔰 ᴛᴇʟᴇɢʀᴀᴍ 🔰', url='https://t.me/Cutozki')
+            InlineKeyboardButton('🔰 ɪɴsᴛᴀɢʀᴀᴍ 🔰', url='https://t.me/darkhackermachan'),
+            InlineKeyboardButton('🔰 ᴛᴇʟᴇɢʀᴀᴍ 🔰', url='https://t.me/darkhackermachan')
         ], [
  
             InlineKeyboardButton("⪻ ʙᴀᴄᴋ", callback_data="me"),
